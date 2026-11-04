@@ -30,7 +30,7 @@ I am a web developer based in Minas Gerais, Brazil, and a founder of **Digital S
 
 I completed a **technical programme in Systems Development at COLTEC/UFMG (2023–2025)** and started a **Bachelor’s degree in Computer Science at PUC Minas**, Coração Eucarístico campus, in August 2026. I am currently in my first semester. From June to December 2025, I was a **Data Analysis Intern at Cosimat**, working with Python, SQL, Power BI and Excel automation.
 
-Explore our team’s portfolio demonstrations: [Advocacia Digital](https://digitalsd.com.br/portfolio/advocacia-digital/), [Alvorada](https://digitalsd.com.br/portfolio/alvorada/) and [OdontoHub](https://digitalsd.com.br/portfolio/odontohub/). They use fictional data and show implementation choices, rather than client endorsements, sales results or production readiness. Being a founder does not mean I individually authored every part of these projects.
+Explore our team’s portfolio demonstrations: [Advocacia Digital](https://digitalsd.com.br/en/portfolio/advocacia-digital/), [Alvorada](https://digitalsd.com.br/en/portfolio/alvorada/) and [OdontoHub](https://digitalsd.com.br/en/portfolio/odontohub/). They use fictional data and show implementation choices, rather than client endorsements, sales results or production readiness. Being a founder does not mean I individually authored every part of these projects.
 
 My tools include JavaScript, TypeScript, HTML, CSS, React, Next.js, Astro and Node.js, with additional experience in Java, C#, Python, PHP and databases. Portuguese is my native language; my English is advanced (C1, self-reported), including technical documentation and meetings.
 
