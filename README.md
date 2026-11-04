@@ -1,37 +1,56 @@
 # Álvaro Marinho
 
-Desenvolvedor web · Fundador da [Digital S&D](https://github.com/Digital-S-D)
+**Foco em back-end · Interesse em Inteligência Artificial**
 
-[Português](#português) · [English](#english)
+[English](README.en.md) · [LinkedIn](https://www.linkedin.com/in/alvaromarinhoso/) · [E-mail](mailto:contato.almasiol@gmail.com)
 
-## Português
+Sou estudante de **Ciência da Computação na PUC Minas**, com formação técnica em **Desenvolvimento de Sistemas pelo COLTEC/UFMG**. Busco **estágio em desenvolvimento de software**, com foco em back-end e interesse em aprofundar meus conhecimentos em IA.
 
-Sou desenvolvedor de Minas Gerais e um dos fundadores da Digital S&D. Trabalho com sites, landing pages e interfaces de sistemas web, conectando organização de conteúdo, implementação e cuidado com a experiência de uso.
+Minha experiência reúne desenvolvimento de APIs, programação orientada a objetos e um estágio em análise de dados, com Python, SQL e automação. Gosto de trabalhar com lógica, dados e regras de negócio — e de entender como uma solução funciona por trás da interface.
 
-Minha formação começou no **Técnico em Desenvolvimento de Sistemas do COLTEC/UFMG (2023–2025)**. Em agosto de 2026, iniciei o **Bacharelado em Ciência da Computação na PUC Minas**, campus Coração Eucarístico; estou no primeiro período. Também atuei como estagiário de Análise de Dados na **Cosimat (junho a dezembro de 2025)**, com Python, SQL, Power BI e automações em Excel.
+## Projeto em destaque
 
-Na SD, apresentamos três demonstrações para tornar nossas soluções concretas:
+### [API de pedidos — Node.js e MongoDB](https://github.com/Alvaromarinho75/jitterbit-API-challenge)
 
-| Projeto | O que você pode avaliar |
+Projeto pessoal baseado em um desafio técnico de integração de sistemas. Recebe pedidos com campos em português, transforma os dados para um modelo em inglês e persiste no MongoDB.
+
+- **Back-end:** CRUD com Express e Mongoose, autenticação JWT, validação de entradas e tratamento de erros HTTP.
+- **Dados:** índice único e tratamento de pedidos duplicados, incluindo criações concorrentes.
+- **Verificação:** 26 testes automatizados, incluindo integração HTTP com um MongoDB real e temporário.
+- **Documentação:** contrato OpenAPI, exemplos de requisições, instruções de execução e decisões técnicas em repositório com README em português e inglês.
+
+[Explorar o código](https://github.com/Alvaromarinho75/jitterbit-API-challenge) · [Ver os testes](https://github.com/Alvaromarinho75/jitterbit-API-challenge/tree/main/tests) · [Ler as decisões técnicas](https://github.com/Alvaromarinho75/jitterbit-API-challenge/blob/main/docs/decisoes.md)
+
+## Outros projetos e estudos
+
+| Projeto | O que explora |
 | --- | --- |
-| [Advocacia Digital](https://digitalsd.com.br/portfolio/advocacia-digital/) | Site institucional com áreas de atuação, perfis e conteúdo editorial |
-| [Construtora Alvorada](https://digitalsd.com.br/portfolio/alvorada/) | Landing page com comparação de apartamentos e contato simulado |
-| [OdontoHub](https://digitalsd.com.br/portfolio/odontohub/) | Interfaces de agenda, pacientes e personalização para uma rotina odontológica |
+| [Sistema de cinema em Java](https://github.com/Alvaromarinho75/TPFinal-POO) | Projeto acadêmico com modelagem de cinemas, salas, sessões e ingressos; orientação a objetos, exceções e serialização em arquivos. |
+| [Computação evolucionária em Processing](https://github.com/Alvaromarinho75/Processing/tree/main/computacaoEvolucionaria) | Simulação experimental com organismos, características herdadas, mutação e busca por recursos. Um estudo ligado ao meu interesse em algoritmos e IA. |
 
-Os projetos da SD são trabalhos da equipe. São demonstrações com dados fictícios; não representam clientes atendidos, resultados de vendas ou sistemas prontos para produção. Minha condição de fundador não implica autoria individual de toda a implementação.
+## Tecnologias e fundamentos
 
-**Tecnologias:** JavaScript, TypeScript, HTML, CSS, React, Next.js, Astro e Node.js. Minha base também inclui Java, C#, Python, PHP e bancos de dados relacionais e MongoDB.
+- **Back-end:** JavaScript, Node.js, Express e MongoDB; base acadêmica em Java e C#.
+- **Dados e automação:** Python, SQL, Power BI e Excel com VBA/macros.
+- **Práticas e ferramentas:** APIs REST, JWT, OpenAPI/Swagger, testes de integração, Git e GitHub.
+- **Interesses para aprofundar:** inteligência artificial, computação evolucionária e aplicações de IA em soluções de back-end.
 
-**Vamos conversar:** [site e serviços da Digital S&D](https://digitalsd.com.br/) · [orçamento com a SD](mailto:digitalsd.contato@gmail.com) · [contato profissional](mailto:contato.almasiol@gmail.com).
+## Experiência
 
-## English
+**Estagiário em Análise de Dados · Cosimat**
 
-I am a web developer based in Minas Gerais, Brazil, and a founder of **Digital S&D**. I work on websites, landing pages and web application interfaces, bringing together content structure, implementation and usability.
+Junho a dezembro de 2025 · Matozinhos, MG
 
-I completed a **technical programme in Systems Development at COLTEC/UFMG (2023–2025)** and started a **Bachelor’s degree in Computer Science at PUC Minas**, Coração Eucarístico campus, in August 2026. I am currently in my first semester. From June to December 2025, I was a **Data Analysis Intern at Cosimat**, working with Python, SQL, Power BI and Excel automation.
+- Desenvolvi scripts e automações para rotinas internas, utilizando Python, SQL e ferramentas de dados.
+- Trabalhei com dashboards em Power BI e automações em Excel com VBA/macros.
+- Apoiei a análise de logs, a depuração de código e a manutenção de rotinas de sistemas.
 
-Explore our team’s portfolio demonstrations: [Advocacia Digital](https://digitalsd.com.br/en/portfolio/advocacia-digital/), [Alvorada](https://digitalsd.com.br/en/portfolio/alvorada/) and [OdontoHub](https://digitalsd.com.br/en/portfolio/odontohub/). They use fictional data and show implementation choices, rather than client endorsements, sales results or production readiness. Being a founder does not mean I individually authored every part of these projects.
+Também sou cofundador da [Digital S&D](https://github.com/Digital-S-D), uma iniciativa de desenvolvimento web com projetos realizados em equipe.
 
-My tools include JavaScript, TypeScript, HTML, CSS, React, Next.js, Astro and Node.js, with additional experience in Java, C#, Python, PHP and databases. Portuguese is my native language; my English is advanced (C1, self-reported), including technical documentation and meetings.
+## Formação e idiomas
 
-**Contact:** [Digital S&D services](https://digitalsd.com.br/) · [project enquiries](mailto:digitalsd.contato@gmail.com) · [professional email](mailto:contato.almasiol@gmail.com). You can write in Portuguese or English.
+- **Ciência da Computação — PUC Minas**, campus Coração Eucarístico · agosto de 2026–em andamento.
+- **Técnico em Desenvolvimento de Sistemas — COLTEC/UFMG** · 2023–2025, concluído.
+- **Idiomas:** português nativo e inglês avançado.
+
+Estou em Minas Gerais, com disponibilidade para oportunidades presenciais ou híbridas em Belo Horizonte.
