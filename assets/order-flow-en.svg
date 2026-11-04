@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="124" viewBox="0 0 1000 124" role="img" aria-labelledby="title">
+<title id="title">Request → Order API → Persistence</title>
+
+<rect x="1" y="1" width="998" height="122" rx="12" fill="#101C2D" stroke="#2D4259"/>
+<g fill="none" stroke="#5EEAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M297 62 H344 M337 55 L344 62 L337 69 M656 62 H703 M696 55 L703 62 L696 69"/>
+</g>
+<g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+  <g fill="#F0F6FC" font-size="21" font-weight="600"><text x="158" y="52">Request</text><text x="500" y="52">Order API</text><text x="842" y="52">Persistence</text></g>
+  <g fill="#B6C8DA" font-size="15"><text x="158" y="83">JSON / REST</text><text x="500" y="83">JWT · Validation · CRUD</text><text x="842" y="83">MongoDB / Mongoose</text></g>
+</g>
+
+</svg>

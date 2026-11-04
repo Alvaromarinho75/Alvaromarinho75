@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="240" viewBox="0 0 1100 240" role="img" aria-labelledby="title">
+<title id="title">BACK-END / DATA / AI · Building with logic. · Exploring with curiosity.</title>
+
+<defs>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 H 0 V 32" fill="none" stroke="#243449" stroke-width="0.6"/></pattern>
+  <linearGradient id="background" x2="1" y2="1"><stop stop-color="#101C2D"/><stop offset="1" stop-color="#162738"/></linearGradient>
+</defs>
+<rect width="1100" height="240" rx="14" fill="url(#background)"/>
+<rect x="670" width="430" height="240" rx="14" fill="url(#grid)"/>
+<rect x="0" y="32" width="4" height="176" rx="2" fill="#5EEAD4"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+  <text x="46" y="54" fill="#5EEAD4" font-size="14" font-weight="600" letter-spacing="3">BACK-END / DATA / AI</text>
+  <text x="43" y="113" fill="#F0F6FC" font-size="40" font-weight="700">Building with logic.</text>
+  <text x="43" y="164" fill="#C3D2E4" font-size="34" font-weight="400">Exploring with curiosity.</text>
+</g>
+<g fill="none" stroke="#456279" stroke-width="2">
+  <path d="M804 120 L914 53 M804 120 L989 120 M804 120 L914 187"/>
+  <circle cx="804" cy="120" r="44" fill="#122636" stroke="#5EEAD4"/>
+  <rect x="888" y="30" width="54" height="46" rx="10" fill="#17283B" stroke="#A78BFA"/>
+  <rect x="964" y="97" width="54" height="46" rx="10" fill="#17283B" stroke="#60A5FA"/>
+  <rect x="888" y="164" width="54" height="46" rx="10" fill="#17283B" stroke="#5EEAD4"/>
+</g>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.4">
+  <path d="M792 108 L780 120 L792 132 M816 108 L828 120 L816 132 M808 104 L800 136" stroke="#5EEAD4"/>
+  <g stroke="#A78BFA"><ellipse cx="915" cy="45" rx="12" ry="5"/><path d="M903 45 V61 C903 68 927 68 927 61 V45 M903 53 C903 60 927 60 927 53"/></g>
+  <g stroke="#60A5FA"><path d="M979 112 H1003 M979 120 H995 M979 128 H999"/></g>
+  <g stroke="#5EEAD4"><path d="M905 179 L924 187 L905 195 Z"/></g>
+</g>
+<g fill="#5EEAD4"><circle cx="850" cy="92" r="3"/><circle cx="918" cy="120" r="3"/><circle cx="868" cy="159" r="3"/></g>
+
+</svg>

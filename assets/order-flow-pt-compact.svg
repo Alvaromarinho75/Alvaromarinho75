@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-labelledby="title">
+<title id="title">Requisição → API de pedidos → Persistência</title>
+
+<rect x="1" y="1" width="558" height="258" rx="12" fill="#101C2D" stroke="#2D4259"/>
+<path d="M42 67 V106 M42 143 V182" fill="none" stroke="#456279" stroke-width="2"/>
+<g font-family="Segoe UI,Arial,sans-serif"><circle cx="42" cy="49" r="17" fill="#172535" stroke="#5EEAD4"/>
+<text x="42" y="55" text-anchor="middle" fill="#5EEAD4" font-size="16">1</text>
+<text x="78" y="44" fill="#F0F6FC" font-size="23" font-weight="600">Requisição</text>
+<text x="78" y="70" fill="#B6C8DA" font-size="18">JSON / REST</text><circle cx="42" cy="125" r="17" fill="#172535" stroke="#5EEAD4"/>
+<text x="42" y="131" text-anchor="middle" fill="#5EEAD4" font-size="16">2</text>
+<text x="78" y="120" fill="#F0F6FC" font-size="23" font-weight="600">API de pedidos</text>
+<text x="78" y="146" fill="#B6C8DA" font-size="18">JWT · Validação · CRUD</text><circle cx="42" cy="201" r="17" fill="#172535" stroke="#5EEAD4"/>
+<text x="42" y="207" text-anchor="middle" fill="#5EEAD4" font-size="16">3</text>
+<text x="78" y="196" fill="#F0F6FC" font-size="23" font-weight="600">Persistência</text>
+<text x="78" y="222" fill="#B6C8DA" font-size="18">MongoDB / Mongoose</text></g>
+
+</svg>

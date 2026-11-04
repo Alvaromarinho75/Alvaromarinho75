@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="34" viewBox="0 0 116 34" role="img" aria-labelledby="title">
+<title id="title">LinkedIn</title>
+
+<rect width="116" height="34" rx="6" fill="#172535"/>
+<rect width="42" height="34" rx="6" fill="#3B82F6"/>
+<path d="M36 0 H42 V34 H36 Z" fill="#3B82F6"/>
+<g fill="#F0F6FC"><path d="M12 12 H16 V23 H12 Z M12 8 H16 V11 H12 Z M19 12 H23 V13 C28 9 31 13 31 17 V23 H27 V17 C27 14 23 14 23 17 V23 H19 Z"/></g>
+<text x="52" y="22" fill="#F0F6FC" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">LinkedIn</text>
+
+</svg>

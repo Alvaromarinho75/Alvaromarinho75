@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="63" height="32" viewBox="0 0 63 32" role="img" aria-labelledby="title">
+<title id="title">Git</title>
+
+<rect x="0.5" y="0.5" width="62" height="31" rx="6" fill="#172535" stroke="#354B62"/>
+<rect x="12" y="12" width="8" height="8" rx="2" fill="#FF9B86"/>
+<text x="29" y="21" fill="#F0F6FC" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">Git</text>
+
+</svg>

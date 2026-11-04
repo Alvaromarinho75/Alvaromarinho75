@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="190" viewBox="0 0 560 190" role="img" aria-labelledby="title">
+<title id="title">BACK-END / DATA / AI · Building with logic. · Exploring with curiosity.</title>
+
+<rect width="560" height="190" rx="12" fill="#101C2D"/>
+<rect y="24" width="4" height="142" rx="2" fill="#5EEAD4"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="26" y="40" fill="#5EEAD4" font-size="12" font-weight="600" letter-spacing="2">BACK-END / DATA / AI</text>
+<text x="25" y="91" fill="#F0F6FC" font-size="32" font-weight="700">Building with logic.</text>
+<text x="25" y="132" fill="#C3D2E4" font-size="27">Exploring with curiosity.</text>
+</g>
+<g fill="none" stroke="#5EEAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="498" cy="42" r="21" stroke="#354B62"/>
+<path d="M491 35 L484 42 L491 49 M505 35 L512 42 L505 49 M501 32 L495 52"/>
+</g>
+
+</svg>
